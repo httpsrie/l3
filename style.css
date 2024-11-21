@@ -1,15 +1,27 @@
-h1,
-p {
-	font-family: 'Hind', sans-serif;
-}
-
-p{
-	text-indent: 50px;
-}
-
 h1 {
-	font-weight: 200;
+    font-family: "Parisienne", cursive;
+    font-weight: 500;
+    font-size: 35px;
+    font-style: normal;
 }
+
+p {
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px; /* Adjust for readability */
+    font-weight: 400;
+    font-style: normal;
+    text-indent: 50px;
+}
+
+body h1 {
+    font-family: "Parisienne", cursive;
+}
+
+body p {
+    font-family: "Open Sans", sans-serif;
+}
+
+
 
 body {
 	margin: 0px;
